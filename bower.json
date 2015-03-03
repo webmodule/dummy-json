@@ -2,6 +2,7 @@
 	"name": "webmodules-dummy-json",
 	"version": "0.0.7",
 	"main": "dummyJson.js",
+	"description": "Dummy JSON generator and templating",
   
 	"authors": [
 		{ "name": "Matt Sweetman" }

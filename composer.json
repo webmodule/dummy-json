@@ -1,7 +1,7 @@
 {
     "name": "webmodules/dummyJson",
     "type": "library",
-    "description":  "Dummy JSON generator for Node.js",
+    "description": "Dummy JSON generator and templating",
     "homepage": "https://github.com/webmodule/dummy-json",
   	"author": "Matt Sweetman,Lalit Tanwar",
     "keywords": ["rudra", "API"],

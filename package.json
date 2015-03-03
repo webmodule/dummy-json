@@ -1,6 +1,6 @@
 {
   "name": "dummy-json",
-  "description": "Dummy JSON generator for Node.js",
+  "description": "Dummy JSON generator and templating",
   "version": "0.0.8",
   "homepage": "https://github.com/webroo/dummy-json",
   "author": "Matt Sweetman",
