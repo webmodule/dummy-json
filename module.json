@@ -1,0 +1,11 @@
+{
+  "name": "webmodules/dummy-json",
+  "webmodules/dummy-json": {
+    "js": [
+      "dummyJson.js"
+    ],
+    "on": [
+      "webmodules/handlebar.js"
+    ]
+  }
+}
