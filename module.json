@@ -5,7 +5,7 @@
       "dummyJson.js"
     ],
     "on": [
-      "webmodules/handlebar.js"
+      "webmodules/handlebarsjs"
     ]
   }
 }
