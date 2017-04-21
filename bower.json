@@ -10,6 +10,6 @@
   		"url": "git://github.com/webmodule/dummy-json.git"
 	},
 	"dependencies": {
-		"webmodules-handlebars": "4.0.5"
+		"webmodules-handlebars": ">=4.0.6"
 	}
 }
