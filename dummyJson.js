@@ -13,7 +13,7 @@
       //AMD based package system
       root.define([], factory);
     } else if(window.define && window.define.get && define({ "fileName": modeulName }).content){
-      return define({ "fileName": modeulName }).content(factory);
+      return define({ "fileName": modeulName, "dependency": [] }).content(factory);
     } else if (typeof exports === 'object') {
       //EXPORT based system
       module.exports = factory();
